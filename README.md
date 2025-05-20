@@ -6,7 +6,7 @@ Africa_hyperarid_cpis_1972.zip: CPIS in Africa’s hyperarid areas in 1972 (unzi
 Africa_hyperarid_cpis_2024.zip: CPIS in Africa’s hyperarid areas in 2024 (unzip to obtain the shp file)  
 
 
-Note that there is no available Landsat satellite data in 2012.
+Note that there is no available Landsat satellite data in 1974 and 2012.
 
 <br />  
 **All rights reserved.**
