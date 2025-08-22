@@ -1,3 +1,5 @@
+![CPIS](./african_hyperarid_cpis.jpg)
+
 # Africa_hyperarid_cpis
 
 Africa_hyperarid_cpis_1972.zip: CPIS in Africa’s hyperarid areas in 1972 (unzip to obtain the shp file)  
