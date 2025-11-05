@@ -16,6 +16,7 @@ Note that there is no available Landsat satellite data in 1974 and 2012.
 <br /> 
 Future updates will be implemented. If you use our data, please cite our paper:
 <br />
-Chen, F., Shen, P., Van de Voorde, T., Roberts, D., X. Zuo, Y. Zhang, Satellite mapping irrigation fields equipped with center pivot irrigation systems in Africa's hyper-arid regions annually from 1972 to 2024 (submitted).
+Chen, F., Shen, P., Van de Voorde, T., Roberts, D., Zuo, X., Zhang, Y., Annual Satellite Mapping of Center Pivot Irrigation Expansion 
+in Africa’s Hyper-Arid Regions from 1972 to 2024 (submitted).
 
 For more information, please contact Fen Chen.
