@@ -11,7 +11,7 @@ Africa_hyperarid_cpis_2024.zip: CPIS in Africa’s hyperarid areas in 2024 (unzi
 Note that there is no available Landsat satellite data in 1974 and 2012.
 
 <br />  
-**All rights reserved.**
+This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 <br />
 <br /> 
 Future updates will be implemented. If you use our data, please cite our paper:
