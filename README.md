@@ -1,6 +1,6 @@
 ![CPIS](./african_hyperarid_cpis.jpg)
 
-# Africa_hyperarid_cpis
+# Annual Center Pivot Irrigation System dataset of Africa’s Hyper-Arid Regions (1972-2024) v1.0
 
 Africa_hyperarid_cpis_1972.zip: CPIS in Africa’s hyperarid areas in 1972 (unzip to obtain the shp file)  
 …  
@@ -10,7 +10,7 @@ Africa_hyperarid_cpis_2024.zip: CPIS in Africa’s hyperarid areas in 2024 (unzi
 
 Note that there is no available Landsat satellite data in 1974 and 2012.
 
-<br />  
+<br /> 
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 <br />
 <br /> 
