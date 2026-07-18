@@ -16,6 +16,6 @@ This dataset is licensed under a Creative Commons Attribution 4.0 International 
 <br /> 
 Future updates will be implemented. If you use our data, please cite our paper:
 <br />
-Chen, F., Shen, P., Van de Voorde, T., Roberts, D., Zhang, Y., Annual Center Pivot Irrigation Expansion in Africa’s Hyper-Arid Regions from 1972 to 2025 (submitted).
+Chen, F., Shen, P., Van de Voorde, T., Roberts, D., Satellite Mapping of Annual Center Pivot Irrigation Expansion in Africa’s Hyper-Arid Regions from 1972 to 2025 (submitted).
 
-For more information, please contact Fen Chen.
+For more information, please contact Fen Chen, chenfen@cdu.edu.cn
