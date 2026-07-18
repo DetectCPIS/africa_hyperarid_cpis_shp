@@ -18,4 +18,4 @@ Future updates will be implemented. If you use our data, please cite our paper:
 <br />
 Chen, F., Shen, P., Van de Voorde, T., Roberts, D., Satellite Mapping of Annual Center Pivot Irrigation Expansion in Africa’s Hyper-Arid Regions from 1972 to 2025 (submitted).
 
-For more information, please contact Fen Chen, chenfen@cdu.edu.cn
+For more information, please contact Fen Chen, chenfen@uestc.edu.cn, chenfen@cdu.edu.cn
